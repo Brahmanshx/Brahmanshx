@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Brahmansh Rathore! 👋
 
-<!--
-**Brahmanshx/Brahmanshx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome to my GitHub! I'm passionate about building robust web applications and exploring the intersection of technology and innovation. Currently focused on projects involving Node.js, MongoDB, and front-end technologies. Let's collaborate and create impactful solutions together!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 📚 Tech Stack:
+
+![Tech Stack](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react&logoColor=black)
+![Tech Stack](https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Database-MongoDB-yellow?style=flat&logo=mongodb&logoColor=black)
+
+---
+
+### 👨‍💻 Technologies & Tools:
+- **Frontend**:JavaScript, HTML, CSS
+- **Backend**: Node.js, Express, MongoDB
+- **Tools**: Git,Postman
+
+---
+
+### 🌍 GitHub Stats:
+![Brahmansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brahmanshx&show_icons=true&theme=radical)
+
+---
+
+### 🌍 Languages Used:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brahmanshx&layout=compact&theme=radical)
+
+---
+
+### 🔥 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brahmanshx)
+
+
+---
+
+
+### 🌱 I’m currently learning React and exploring  technologies!
+
+---
+
+### 📫 How to reach me:
+- **Email**: [brahmanshthakur@gmail.com](mailto:brahmanshthakur@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brahmansh-rathore-a3a907287/)
+
+---
+
+### 🚀 Check out my repositories below:
